@@ -539,7 +539,7 @@ var LS_Meta = {"v":"6.11.5","fixGSAP":"1"};
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 </div><div id="block-12" class="widget widget_block">
 <ul class="wp-block-list">
-<li>Telephone: <a href="tel:81410 80807">+91 81410 80807</a></li>
+<li>Contact Number: <a href="tel:81410 80807">+91 81410 80807</a></li>
 </ul>
 </div><div id="block-13" class="widget widget_block">
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
