@@ -393,19 +393,7 @@ var LS_Meta = {"v":"6.11.5","fixGSAP":"1"};
 	<div class="wrapper_inner">
 
     
-		<!-- Google Analytics start -->
-					<script>
-				var _gaq = _gaq || [];
-				_gaq.push(['_setAccount', 'G-W6VVD10EVC']);
-				_gaq.push(['_trackPageview']);
 
-				(function() {
-					var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-					ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-				})();
-			</script>
-				<!-- Google Analytics end -->
 
 		
 	<header class=" has_top scroll_header_top_area  regular transparent menu_position_left page_header">
